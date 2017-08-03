@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/survivor.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/version.spritefont</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/bullet.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/freemusic.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/survivorhandgun.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/survivorshotgun.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/ColtPixel.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/Ak47Pixel.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/AK.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/9mm.wav</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/assaultrifle.wav</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/shotgunshot.wav</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/Shotgunsprite.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/explosionsound.wav</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/Title.spritefont</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/StartButton.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/YButton.spritefont</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/juggernaught.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/speeder.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/commonzombie.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/GameFont</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/exploder.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/grassstile.png</File>
+    <File>C:/Users/Liam/Documents/UndeadDirector/UndeadFriends/Content/Controller1.png</File>
+  </SourceFiles>
+</SourceFileCollection>
